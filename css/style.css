@@ -582,7 +582,6 @@ ul.email li i {
 .portfolio .titlepage::before {
      right: inherit;
      border: #2e2f34 solid 5px;
-     left: 15px;
 }
 
 .portfolio_main {
