@@ -682,8 +682,7 @@ ul.email li i {
 }
 
 .chose .titlepage::before {
-     right: inherit;
-     left: 15px;
+    
 }
 
 .chose .titlepage h2 {
