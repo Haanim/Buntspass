@@ -200,7 +200,7 @@ button {
 .titlepage::before {
      content: "";
      position: absolute;
-     border: #fff solid 5px;
+     border: #2e2f34 solid 5px;
      border-width: 5px;
      width: 80px;
      z-index: 999;
