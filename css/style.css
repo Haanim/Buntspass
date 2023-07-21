@@ -682,7 +682,7 @@ ul.email li i {
 }
 
 .chose .titlepage::before {
-    
+    border: #fff solid 5px;
 }
 
 .chose .titlepage h2 {
